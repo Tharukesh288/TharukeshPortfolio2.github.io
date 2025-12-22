@@ -1,0 +1,17 @@
+{
+    "name": "Alex Developer Portfolio",
+    "short_name": "AlexPortfolio",
+    "description": "Personal Portfolio of Alex Developer",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#0a0f1c",
+    "theme_color": "#0a0f1c",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "assets/icons/logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "192x192 512x512"
+        }
+    ]
+}
